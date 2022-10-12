@@ -23,6 +23,7 @@ let content = (
 			</a>
 		</div>
 	</div>
+
 );
 /**
  * define the variable 'content' here and fill it with the

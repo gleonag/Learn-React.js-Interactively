@@ -10,7 +10,9 @@ const customer = {
 const output = (
 	<div>
 		<h1>My name is {customer.first_name}</h1>
-		<h2>My las name is {customer.last_name}</h2>
+
+		<h2>My lastname is {customer.last_name}</h2>
+
 	</div>
 );
 
